@@ -1,0 +1,65 @@
+[
+  {
+  "_Id" : 0,
+  "customerName" : "DEshraj",
+  "phoneNumber": 5145135156,
+  "address":"Tempe",
+  "loanAmount": 250,
+  "interest": 13,
+  "loanTermYears": 4,
+  "loanType": "Student Loan",
+  "description": "Educational Loan"
+
+}, 
+{
+
+"_Id": 1,
+"customerName" : "Ishan",
+"phoneNumber": 5945545245,
+"address":"Texas",
+"loanAmount": 100,
+"interest": 12,
+"loanTermYears": 2,
+"loanType": "Personal Loan",
+"description": "Personal Loan"
+   
+},
+{
+
+  "_Id": 2,
+  "customerName" : "Sohaib",
+  "phoneNumber": 254418545,
+  "address":"Gujrat",
+  "loanAmount": 120,
+  "interest": 10,
+  "loanTermYears": 5,
+  "loanType": "Car loan",
+  "description": "Car loan"
+     
+  },
+  {
+
+    "_Id": 3,
+    "customerName" : "Surya",
+    "phoneNumber": 5454241848,
+    "address":"Newyorkoenix",
+    "loanAmount": 725,
+    "interest": 15,
+    "loanTermYears": 3,
+    "loanType": "business Loan",
+    "description": "business Loan"
+       
+    },
+    {
+
+      "_Id": 4,
+      "customerName" : "Rv",
+      "phoneNumber": 1518154881,
+      "address":"Miami",
+      "loanAmount": 170,
+      "interest": 5,
+      "loanTermYears": 2,
+      "loanType": "Provident fund Loan",
+      "description": "Loan for Provident fund"        
+  }
+]
